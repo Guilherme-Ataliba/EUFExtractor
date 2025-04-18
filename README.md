@@ -2,6 +2,10 @@
 
 A work‑in‑progress Python tool to transform past EUF solution manuals into fresh practice exams by stripping out the pre‑selected answers and shuffling the choices.
 
+<div align="center">
+  <img src="EUF_new_page.png" width="900"/>
+</div>
+
 ---
 
 ## 📋 What It Is
