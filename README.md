@@ -24,6 +24,11 @@ Physicists in Brazil must pass the EUF exam to enter master’s and doctoral pro
 
 ---
 
+## 🚀 Getting Started
+Since this is still a work-in-progress project, usability improvements will come. For more information on how to generate new randomized tests, please contact me via this page or [LinkedIn](https://www.linkedin.com/in/guilherme-ataliba/). 
+
+---
+
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome! Please open an issue or submit a pull request.
